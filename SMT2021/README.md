@@ -2,7 +2,7 @@
 
 This folder contains accompanying materials for the paper:
 
-_J.Jakubův, M.Janota, A.Reynolds_: Characteristic Subsets of SMT-LIB Benchmarks, 2021.
+_J. Jakubův, M. Janota, A. Reynolds_: Characteristic Subsets of SMT-LIB Benchmarks, 2021.
 
 accepted for the [SMT'21 Workshop](http://smt-workshop.cs.uiowa.edu/2021/).
 
