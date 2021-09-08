@@ -14,7 +14,11 @@ contain characteristic subsets of different sizes for all TPTP problems.  These
 are provided to help the developers by speeding up evaluation over TPTP.
 Evaluation done on a characteristic subset (of some size) should provide better
 results than the evaluation done on a random subset of problems (of the same
-size).  Please consult the paper for more information.
+size).  
+There is a list of TPTP problems for each subset size, and for each problem the
+corresponding cluster size.
+The cluster sizes can be used as importance weights (or they can be ignored).
+Please consult the paper for more information.
 
 ### Acknowledgments ###
 
