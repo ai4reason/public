@@ -20,6 +20,8 @@ corresponding cluster size.
 The cluster sizes can be used as importance weights (or they can be ignored).
 Please consult the paper for more information.
 
+TPTP Version: v7.5.0
+
 ### Acknowledgments ###
 
 The results were supported by the Ministry of Education, Youth and Sports within the dedicated program ERC CZ under the project _POSTMAN_ no. LL1902, and by the ERC Project _SMART_ Starting Grant no. 714034.
